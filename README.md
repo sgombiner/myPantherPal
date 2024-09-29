@@ -30,3 +30,5 @@ This project is a web-based chat application that allows users to interact with 
 
 ### Demo
 ![](https://github.com/myPantherPal/myPantherPalDemo.gif)
+https://github.com/user-attachments/assets/aeb9f567-17eb-4a7f-9cdd-0b22f7e10a29
+
