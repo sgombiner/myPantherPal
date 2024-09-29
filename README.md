@@ -29,6 +29,8 @@ This project is a web-based chat application that allows users to interact with 
 - Google API Key for the Gemini API
 
 ### Demo
-![](https://github.com/myPantherPal/myPantherPalDemo.gif)
-https://github.com/user-attachments/assets/aeb9f567-17eb-4a7f-9cdd-0b22f7e10a29
+
+https://github.com/user-attachments/assets/979de5c5-5f9d-43eb-b247-c0f39fdc0f8f
+
+s
 
