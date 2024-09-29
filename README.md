@@ -27,3 +27,6 @@ This project is a web-based chat application that allows users to interact with 
 - Flask
 - Required Python libraries 
 - Google API Key for the Gemini API
+
+### Demo
+![](https://github.com/myPantherPal/myPantherPalDemo.gif)
