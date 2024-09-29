@@ -30,7 +30,8 @@ This project is a web-based chat application that allows users to interact with 
 
 ### Demo
 
-https://github.com/user-attachments/assets/979de5c5-5f9d-43eb-b247-c0f39fdc0f8f
+https://github.com/user-attachments/assets/b836e05c-8062-40fb-a54a-2a20d9530f8d
+
 
 
 
