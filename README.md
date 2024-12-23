@@ -1,4 +1,5 @@
 # myPantherPal
+https://devpost.com/software/my-panther-pal
 Gemini AI interfaced with PittAPI, React, and Flask. Made in Python, HTML, and JavaScript
 # Chat Application with File Upload and Menu Fetching
 
