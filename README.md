@@ -29,6 +29,48 @@ This project is a web-based chat application that allows users to interact with 
 - Required Python libraries 
 - Google API Key for the Gemini API
 
+# Project Setup Guide
+
+## 1. Create a Virtual Environment
+
+### macOS/Linux:
+```bash
+python -m venv venv  
+source venv/bin/activate
+```
+
+## 2. Install Required Dependencies
+
+Run this command to install all the necessary packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+## 3. Configure Environment Variables
+
+Duplicate the example `.env` file:
+
+```bash
+cp .env.example .env
+```
+
+Open the `.env` file and add your API key.
+
+## 4. Start the Application
+
+Launch the app with:
+
+```bash
+flask run
+```
+
+## 5. Access the App
+
+Open your browser and visit: [http://localhost:5000](http://localhost:5000) (ensure port 5000 not in use).
+
+Enjoy trying out my app! 
+
 ### Demo
 
 https://github.com/user-attachments/assets/b836e05c-8062-40fb-a54a-2a20d9530f8d
