@@ -1,6 +1,7 @@
 # myPantherPal
 https://devpost.com/software/my-panther-pal
-Gemini AI interfaced with PittAPI, React, and Flask. Made in Python, HTML, and JavaScript
+- Gemini AI interfaced with PittAPI, React, and Flask. Made in Python, HTML, and JavaScript
+- Secured 2nd place in "Best Pitt Inspired Demo powered by Gemini API" at SteelHacks 2024, surpassing 25 competing teams, sponsored by Google.
 # Chat Application with File Upload and Menu Fetching
 
 This project is a web-based chat application that allows users to interact with a generative AI model. Users can send messages, upload images, and retrieve menus from dining locations on campus.
